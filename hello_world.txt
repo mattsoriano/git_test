@@ -1,3 +1,5 @@
 Hello world. 
 This is the start of something new.
 It feels so right to be here with you.
+
+im testing git commit auto open vscode here...
